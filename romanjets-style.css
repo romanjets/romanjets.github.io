@@ -9,3 +9,7 @@ div
   max-width: 720px;
   width: 95%;
 }
+
+p, h1
+{
+  font-family: sans-serif;
