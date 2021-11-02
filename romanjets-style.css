@@ -7,12 +7,26 @@ body
   overflow-x: hidden;
 }
 
+footer
+{
+  margin-top: 0px;
+  margin: auto;
+  padding: 1rem;
+  background-color: #5B5889;
+  max-width: 80ch;
+}
+
+footer > p
+{
+  color: #F9F6F4;
+}
+
 div
 {
   margin-top: 0px;
   margin: auto;
   padding: 1rem;
-  background-color: #FFFFFF;
+  background-color: #F9F6F4;
   max-width: 80ch;
 }
 
