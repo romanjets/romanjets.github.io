@@ -30,7 +30,7 @@ div
   max-width: 80ch;
 }
 
-p, h1, h2, h3, h4, h5, h6
+p, li, h1, h2, h3, h4, h5, h6
 {
   font-family: sans-serif;
 }
@@ -47,5 +47,5 @@ p, h1, h2, h3, h4, h5, h6
 
 .contact
 {
-  background-color: #EDEDED;
+  background-color: #DDDDDD;
 }
